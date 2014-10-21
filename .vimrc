@@ -1,0 +1,9 @@
+set nocompatible
+syntax on
+set ruler
+set number
+set autoindent
+set expandtab
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
